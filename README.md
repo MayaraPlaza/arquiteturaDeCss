@@ -1,2 +1,2 @@
-# arquiteturaDeCss
-Arquitetura de CSS - Projeto receitas
+# arquitetura-css
+curso de arquitetura da Alura. 
